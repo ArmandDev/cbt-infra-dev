@@ -1,2 +1,1 @@
-# cbt-infra-dev
-My awesome codebase for  environment
+This is a infra terraform repository created by Terraform in environment dev.
